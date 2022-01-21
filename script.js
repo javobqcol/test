@@ -1,5 +1,3 @@
-
-
 function encriptar(cadena){
     var cadenanueva ='';
     
